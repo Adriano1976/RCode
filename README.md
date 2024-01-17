@@ -131,3 +131,6 @@ proporções do que muitos outros textos introdutórios à estatística.
 
 - 15.1 Compare dois grupos por classificação
 - 15.2 Métodos Não Paramétricos para Vários Grupos e para Pares Combinados
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
