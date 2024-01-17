@@ -7,7 +7,9 @@ Os alunos muitas vezes acham este livro agradável de ler e ficam envolvidos com
 Com base na crença dos autores de que é importante aprender e analisar dados quantitativos e categoriais, este texto presta mais atenção à análise de 
 proporções do que muitos outros textos introdutórios à estatística.
 
-Prefácio
+* Fonte dos Dados: https://github.com/Adriano1976/datasets
+
+<hr>
 
 ## I: COLETA E EXPLORAÇÃO DE DADOS
 
