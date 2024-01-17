@@ -132,6 +132,8 @@ proporções do que muitos outros textos introdutórios à estatística.
 - 15.1 Compare dois grupos por classificação
 - 15.2 Métodos Não Paramétricos para Vários Grupos e para Pares Combinados
 
+<hr>
+
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RCode}/count.svg" /></p> 
