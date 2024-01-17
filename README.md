@@ -1,3 +1,7 @@
+# Estatística: A Arte e a Ciência dos Dados 
+
+![_72225c06-fa18-484b-b2a9-f2149d9c9373](https://github.com/Adriano1976/RCode/assets/17755195/5f8ef69f-33cd-42dc-bb46-e46a755f0439)
+
 O livro *Estatística: A Arte e a Ciência dos Dados* (Statistics: The Art and Science of Learning from Data, 5th edition, Authors: Agresti, Franklin, Klingenberg) 
 disponível no site [artofstat](https://artofstat.com/), que é uma ferramenta que ajuda você a entender do que se trata a estatística e a aprender as perguntas certas a serem 
 feitas ao analisar dados, em vez de apenas memorizar procedimentos. Torna acessíveis as ideias que transformaram a estatística numa ciência central da vida moderna, 
